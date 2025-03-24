@@ -1,7 +1,7 @@
 <?php
-#include 'db.php';
+
 include_once __DIR__ . "/../dbcontroller/db.php";
-#include_once __DIR__ . "/db.php";
+
 
 header("Content-Type: application/json");
 
