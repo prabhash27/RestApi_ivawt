@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
 $username = "root";
-$password = "Genhack27@";
+$password = "";
 $dbname = "vid4vid";
 
 // Create connection
